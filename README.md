@@ -115,6 +115,3 @@ Contributions are welcome in frontend development, backend APIs, machine learnin
 
 FEM-CARE AI is intended for educational and wellness support purposes only. It does not replace professional medical advice, diagnosis, or treatment. Users should consult qualified healthcare professionals for medical concerns.
 
----
-
-## NOTE: This is a female only repository. Only PRs from female contributors will be accepted.
